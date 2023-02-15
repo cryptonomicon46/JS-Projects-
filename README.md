@@ -9,8 +9,8 @@ Project goals:
 Create a task list project using vanilla JS
 You should be able to do the following actions
 
-1.Add items and persist in local storage
-2.Filter items
-3.Delete specific items
-4.Clear all items
+1. Add items and persist in local storage
+2. Filter items
+3. Delete specific items
+4. Clear all items
 
